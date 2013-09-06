@@ -13,3 +13,5 @@ Steps:
 [?] Which modules would you like to include? angular-resource.js, angular-cookies.js, angular-sanitize.js
 ```
 _Latest packeges versions, including grunt@0.4.1_
+
+Add files from https://github.com/enginous/angular-oauth
